@@ -1,0 +1,12 @@
+$TTL 604800
+@	IN	SOA	thebombgame.com.ar. root.thebombgame.com.ar. (
+	1	;
+	604800	;
+	86400	;
+	2419200	;
+	604800 )
+;
+@	IN	NS	ns1.thebombgame.com.ar.
+thebombgame.com.ar.	IN	A	93.188.166.173
+ns1.thebombgame.com.ar. IN	A	93.188.166.173
+www.thebombgame.com.ar. IN	A	93.188.166.173

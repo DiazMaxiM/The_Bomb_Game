@@ -1,0 +1,15 @@
+;
+; BIND reverse data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	thebombgame.com.ar. root.thebombgame.com.ar. (
+			     20160701		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	thebombgame.com.ar.
+1	IN	PTR	thebombgame.com.ar.
+1	IN	PTR	ns1.thebombgame.com.ar.
+10	IN	PTR	www.thebombgame.com.ar.

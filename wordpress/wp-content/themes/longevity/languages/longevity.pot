@@ -1,0 +1,1078 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Longevity\n"
+"POT-Creation-Date: 2016-05-26 15:42-0700\n"
+"PO-Revision-Date: 2016-05-26 15:42-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:27
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:30
+msgid "This is also somewhat embarrassing for us."
+msgstr ""
+
+#: 404.php:31
+msgid ""
+"It looks like something went wrong somewhere. Perhaps try doing a search "
+"with keywords related to what you were looking for?"
+msgstr ""
+
+#: 404.php:35
+msgid "Return to the Homepage here"
+msgstr ""
+
+#: author-bio.php:25
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:29
+#, php-format
+msgid "View articles written by %s"
+msgstr ""
+
+#: comments.php:23
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:23
+msgid " Comment "
+msgstr ""
+
+#: comments.php:23
+msgid " Comments "
+msgstr ""
+
+#: comments.php:40
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:53
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:55
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:56
+msgid "Submit"
+msgstr ""
+
+#: comments.php:57
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:61
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:62
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:63
+msgid "Website"
+msgstr ""
+
+#: footer.php:52
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:52 inc/customizer.php:251
+msgid "Your Name"
+msgstr ""
+
+#: footer.php:52
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:77
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Social Footer Menu"
+msgstr ""
+
+#: functions.php:125
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:131
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:192
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:193
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:40
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:76
+msgctxt "Search for:"
+msgid "Search for:"
+msgstr ""
+
+#: header.php:78
+msgctxt "Search field Text"
+msgid "Search Words"
+msgstr ""
+
+#: image.php:52 inc/template-tags.php:222 template-parts/content-page.php:31
+msgid "Pages:"
+msgstr ""
+
+#: image.php:56 inc/template-tags.php:226
+msgid "Page"
+msgstr ""
+
+#: image.php:66
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:67
+msgid "Next Image"
+msgstr ""
+
+#: inc/back-compat.php:38 inc/back-compat.php:48 inc/back-compat.php:61
+#, php-format
+msgid ""
+"Longevity requires at least WordPress version 4.1. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/comment-layout.php:22
+msgid "at"
+msgstr ""
+
+#: inc/comment-layout.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Setup Tutorials"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Theme Support"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Please Rate Longevity"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Get the Pro Version"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Show Site Title"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Show Tagline"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Your Logo"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Logo Margin Space"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Site Title Colour"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Site Description Colour"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Site Options"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer.php:135 inc/customizer.php:1134
+msgid "Logo to the Left and Menu Right"
+msgstr ""
+
+#: inc/customizer.php:136 inc/customizer.php:1135
+msgid "Centered Logo and Menu Below"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Page Width"
+msgstr ""
+
+#: inc/customizer.php:150 inc/customizer.php:1148
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:151 inc/customizer.php:1149
+msgid "Boxed 1920px Width"
+msgstr ""
+
+#: inc/customizer.php:152 inc/customizer.php:1150
+msgid "Boxed 1600px Width"
+msgstr ""
+
+#: inc/customizer.php:153 inc/customizer.php:1151
+msgid "Boxed 1400px Width"
+msgstr ""
+
+#: inc/customizer.php:154 inc/customizer.php:1152
+msgid "Boxed 1200px Width"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Load Font Awesome"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Load Font Awesome if not you are not using a plugin for it."
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Show Curve on Front Page"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Show or hide the curved banner graphic on the front page."
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Show Curve on Pages"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Show or hide the curved banner graphic on inner pages."
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Use Large Curve on Front Page"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid ""
+"Use the large banner curve on the front page when a banner is published, "
+"otherwise use the smaller curve."
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Use Large Curve on Pages"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid ""
+"Use the large banner curve on ALL pages if each one has a banner published, "
+"otherwise use the smaller curve."
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Show the Top Search"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid ""
+"This will show a search field at the top of the page and to the right of "
+"your social bar menu."
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Show the Preloader"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Show the animated preloader graphic while the site loads up."
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Main Menu Top Margin"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer.php:297 inc/customizer.php:1165
+msgid "Large Featured Image Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:298 inc/customizer.php:1166
+msgid "Large Featured Image Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:299 inc/customizer.php:1167
+msgid "Small Featured Image Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:300 inc/customizer.php:1168
+msgid "Small Featured Image Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "Single (full) Post Style"
+msgstr ""
+
+#: inc/customizer.php:314 inc/customizer.php:1181
+msgid "Single with Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:315 inc/customizer.php:1182
+msgid "Single with Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:316 inc/customizer.php:1183
+msgid "Single without Left &amp; Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Content or Excerpt"
+msgstr ""
+
+#: inc/customizer.php:330 inc/customizer.php:347 inc/customizer.php:1196
+#: inc/customizer.php:1209
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:331 inc/customizer.php:348 inc/customizer.php:1197
+#: inc/customizer.php:1210
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Content or Excerpt for Image Post Format"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Show Edit Link"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Show the front-end edit links."
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Show Categories in Summary"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Show the categories list on the post summaries."
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Show Categories on Full Post"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Show the categories list on the full post view."
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Show Posted Date"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Show posted date."
+msgstr ""
+
+#: inc/customizer.php:433
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Show tags list on posts."
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Show Featured Image on Full Post"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Show or hide the featured image on the full post view."
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Show Post Author"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Show the post author."
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "Show Comments Count"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Show the comments count and link on the post summaries."
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Colour Scheme"
+msgstr ""
+
+#: inc/customizer.php:496 inc/customizer.php:1311
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:497 inc/customizer.php:1312
+msgid "Grey"
+msgstr ""
+
+#: inc/customizer.php:498 inc/customizer.php:1313
+msgid "Burgandy"
+msgstr ""
+
+#: inc/customizer.php:499 inc/customizer.php:1314
+msgid "Green"
+msgstr ""
+
+#: inc/customizer.php:500 inc/customizer.php:1315
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer.php:501 inc/customizer.php:1316
+msgid "White"
+msgstr ""
+
+#: inc/customizer.php:502 inc/customizer.php:1317
+msgid "Taupe"
+msgstr ""
+
+#: inc/customizer.php:503 inc/customizer.php:1318
+msgid "Aqua"
+msgstr ""
+
+#: inc/customizer.php:504 inc/customizer.php:1319
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Load Colour Scheme Stylesheet"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid ""
+"Check this box to use the preset colours. If you decide to use your own "
+"custom colours below, you still need to choose the curved banner graphic of "
+"colour."
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "Load Custom Colour Styles"
+msgstr ""
+
+#: inc/customizer.php:529
+msgid ""
+"Check this box if you want to override the preset colour options and then "
+"use the colour selectors below to customize your own. Please note you cannot "
+"customize the curved graphic colour."
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Top Social Bar Background"
+msgstr ""
+
+#: inc/customizer.php:552
+msgid "Top Social Icon Background"
+msgstr ""
+
+#: inc/customizer.php:564
+msgid "Top Social Icon"
+msgstr ""
+
+#: inc/customizer.php:577
+msgid "Top Social Icon Background Hover"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Top Social Icon Hover"
+msgstr ""
+
+#: inc/customizer.php:602
+msgid "Footer Social Icon Background"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Footer Social Icon"
+msgstr ""
+
+#: inc/customizer.php:628
+msgid "Footer Social Icon Background Hover"
+msgstr ""
+
+#: inc/customizer.php:640
+msgid "Footer Social Icon Hover"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:666
+msgid "Main Menu Colour"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Main Menu Active/Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "Submenu Background"
+msgstr ""
+
+#: inc/customizer.php:705
+msgid "Submenu Border"
+msgstr ""
+
+#: inc/customizer.php:718
+msgid "Submenu Link"
+msgstr ""
+
+#: inc/customizer.php:731
+msgid "Banner Backround"
+msgstr ""
+
+#: inc/customizer.php:744
+msgid "Post Entry Title Colour"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "Content Area Text Colour"
+msgstr ""
+
+#: inc/customizer.php:769
+msgid "Content Area Link Colour"
+msgstr ""
+
+#: inc/customizer.php:782
+msgid "Content Area Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:795
+msgid "Left &amp; Right Sidebar Text Colour"
+msgstr ""
+
+#: inc/customizer.php:808
+msgid "Left &amp; Right Sidebar Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:821
+msgid "Bottom Sidebar Background"
+msgstr ""
+
+#: inc/customizer.php:834
+msgid "Bottom Sidebar Text"
+msgstr ""
+
+#: inc/customizer.php:847
+msgid "Bottom Sidebar Link Colour"
+msgstr ""
+
+#: inc/customizer.php:860
+msgid "Bottom Sidebar Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:874
+msgid "Bottom Sidebar List Border Colour"
+msgstr ""
+
+#: inc/customizer.php:889
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:902
+msgid "Footer Text Colour"
+msgstr ""
+
+#: inc/customizer.php:915
+msgid "Footer Link Colour"
+msgstr ""
+
+#: inc/customizer.php:928
+msgid "Footer Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:941
+msgid "Read More Button Background"
+msgstr ""
+
+#: inc/customizer.php:954
+msgid "Read More Button Border"
+msgstr ""
+
+#: inc/customizer.php:967
+msgid "Read More Button Label"
+msgstr ""
+
+#: inc/customizer.php:980
+msgid "Read More Button Hover Background"
+msgstr ""
+
+#: inc/customizer.php:993
+msgid "Read More Button Hover Border"
+msgstr ""
+
+#: inc/customizer.php:1006
+msgid "Read More Button Hover Label"
+msgstr ""
+
+#: inc/customizer.php:1019
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer.php:1031
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:1044
+msgid "Button Background Hover"
+msgstr ""
+
+#: inc/customizer.php:1056
+msgid "Button Text on Hover"
+msgstr ""
+
+#: inc/customizer.php:1069
+msgid "Top Search Background"
+msgstr ""
+
+#: inc/customizer.php:1081
+msgid "Top Search Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1098
+msgid "Page Background Colour"
+msgstr ""
+
+#: inc/customizer.php:1111
+msgid "Page Background size"
+msgstr ""
+
+#: inc/customizer.php:1115
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer.php:1116
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer.php:1117
+msgid "Contain"
+msgstr ""
+
+#: inc/extras.php:57
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:210
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/extras.php:213
+#, php-format
+msgid "Articles with the Tag %s"
+msgstr ""
+
+#: inc/extras.php:217
+#, php-format
+msgid "Articles written by %s"
+msgstr ""
+
+#: inc/extras.php:221 inc/extras.php:224
+#, php-format
+msgid "Articles for %s"
+msgstr ""
+
+#: inc/extras.php:227
+#, php-format
+msgid "Archives for %s"
+msgstr ""
+
+#: inc/extras.php:233
+#, php-format
+msgid "%s: %s"
+msgstr ""
+
+#: inc/extras.php:236
+msgid "Archives"
+msgstr ""
+
+#: inc/sidebars.php:17
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:19
+msgid "Right sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:26
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:28
+msgid "Left sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:35
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:37
+msgid "Right sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:44
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:46
+msgid "Left sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:53
+msgid "Top 1"
+msgstr ""
+
+#: inc/sidebars.php:55
+msgid "Top 1 position"
+msgstr ""
+
+#: inc/sidebars.php:62
+msgid "Top 2"
+msgstr ""
+
+#: inc/sidebars.php:64
+msgid "Top 2 position"
+msgstr ""
+
+#: inc/sidebars.php:71
+msgid "Top 3"
+msgstr ""
+
+#: inc/sidebars.php:73
+msgid "Top 3 position"
+msgstr ""
+
+#: inc/sidebars.php:80
+msgid "Top 4"
+msgstr ""
+
+#: inc/sidebars.php:82
+msgid "Top 4 position"
+msgstr ""
+
+#: inc/sidebars.php:89
+msgid "Content Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:91
+msgid "Content Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:98
+msgid "Content Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:100
+msgid "Content Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:107
+msgid "Content Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:109
+msgid "Content Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:116
+msgid "Content Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:118
+msgid "Content Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:125
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:127
+msgid "Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:134
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:136
+msgid "Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:143
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:145
+msgid "Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:152
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:154
+msgid "Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:161
+msgid "Banner"
+msgstr ""
+
+#: inc/sidebars.php:163
+msgid "For Images and Sliders."
+msgstr ""
+
+#: inc/sidebars.php:170
+msgid "Call to Action"
+msgstr ""
+
+#: inc/sidebars.php:172
+msgid "This is a call to action below the banner area"
+msgstr ""
+
+#: inc/sidebars.php:179
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/sidebars.php:181
+msgid "This is breadcrumbs position but can be used for other things"
+msgstr ""
+
+#: inc/sidebars.php:188
+msgid "Footer"
+msgstr ""
+
+#: inc/sidebars.php:190
+msgid "This is a sidebar position that sits below the footer copyright"
+msgstr ""
+
+#: inc/sidebars.php:197
+msgid "Header Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:199
+msgid ""
+"This is a sidebar position that sits above the main menu that is meant for "
+"very small content such as posting a phone number or a donate button etc."
+msgstr ""
+
+#: inc/template-tags.php:27 inc/template-tags.php:34
+msgid "Untitled"
+msgstr ""
+
+#: inc/template-tags.php:71 template-parts/content.php:30
+#: template-parts/content.php:88 template-parts/content.php:150
+#: template-parts/content.php:158 template-parts/content.php:220
+#: template-parts/content.php:228
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:87
+msgctxt "Used before publish date."
+msgid "Published on"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgctxt "Used before post author name."
+msgid "By"
+msgstr ""
+
+#: inc/template-tags.php:103
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:108 template-parts/content-page.php:19
+msgid "Edit this Post"
+msgstr ""
+
+#: inc/template-tags.php:135 inc/template-tags.php:156
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:138
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:204
+msgid "Next Article"
+msgstr ""
+
+#: inc/template-tags.php:205
+msgid "Next Article:"
+msgstr ""
+
+#: inc/template-tags.php:208
+msgid "Previous Article"
+msgstr ""
+
+#: inc/template-tags.php:209
+msgid "Previous Article:"
+msgstr ""
+
+#: loop.php:77
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgid "Find"
+msgstr ""
+
+#: template-parts/content-aside.php:21 template-parts/content-image.php:20
+#: template-parts/content-status.php:23
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: template-parts/content-image.php:35 template-parts/content-image.php:40
+#: template-parts/content.php:48 template-parts/content.php:53
+#: template-parts/content.php:106 template-parts/content.php:111
+#: template-parts/content.php:177 template-parts/content.php:182
+#: template-parts/content.php:247 template-parts/content.php:252
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/headers.php:61 template-parts/headers.php:128
+msgid "Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Longevity"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.shapedpixels.com/free-wordpress-themes/longevity"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Longevity is a powerful responsive and multipurpose theme offering a "
+"minimalist design style with a unique curved graphic to help showcase your "
+"images and sliders on every page. Easy to configure with a plethora of "
+"features and a live preview of your customization from the WordPress "
+"customizer. You get features like 9 preset colour options, but also "
+"Unlimited colour selectors, 2 Site Header Styles, 21 Widget sidebar "
+"positions, 4 blog styles and layouts, 4 webpage sizes, show or hide various "
+"page elements, post formats, page templates,  and a lot more. For theme "
+"info, support and more, visit the Longevity Info under the Appearance menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shaped Pixels"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.shapedpixels.com"
+msgstr ""

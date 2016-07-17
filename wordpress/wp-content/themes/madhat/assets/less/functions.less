@@ -1,0 +1,25 @@
+.transition ( @a ) {
+	transition: @a;
+	-webkit-transition: @a;
+	-moz-transition: @a;
+	-ms-transition: @a;
+	-o-transition: @a;
+}
+.transform( @b ) {
+	transform: @b;
+	-webkit-transform: @b;
+	-moz-transform: @b;
+	-ms-transform: @b;
+	-o-transform: @b;
+}
+@keyframes skewanimate {
+    0%   {
+    	.transform(perspective(1300px) rotateY(-30deg) );
+    	}
+    35% {
+	    .transform(perspective(1300px) rotateY(10deg) );
+    }	
+    100% {
+    	.transform(perspective(1300px) rotateY(0deg) );
+    	}
+}

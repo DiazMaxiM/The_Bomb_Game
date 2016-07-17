@@ -1,0 +1,47 @@
+ChangeLog
+=========
+
+Version 1.0
+
+	i) Fixed the PHP Error Issues.
+	ii) Added Pro Version Details.
+	iii) Other Tweaks
+
+Verison 0.96
+	
+	i) Slider now works on Static Front Page.
+
+Version 0.95
+
+	i) Corrected Fonts
+	ii) Date i18n
+	iii) Enabled Slider and Featured Content only when is_front_page true.
+
+Version 0.94
+
+	i) Fixed Security Bug.
+	ii) Removed Slicknav and Fleximages.
+	iii) Translation Fixes.
+	iv) Removed Theme Slider from Customizer. Added Future Support for RT Slider Plugin, once it goes live. 
+	v) Core Pagination Function now being used.
+	vi) Using Core Excerpt Function.
+	vii) Other Minor Fixes.
+
+Version 0.92
+
+	i) Fixed Translation Related Bugs.
+	ii) Escaped Output in Slider
+	iii) Added unminified hover.css
+	iv) Removed Sticky Post theme tag
+
+Version 0.91
+
+	i) Numerous Pre Release Bug Fixes.
+	ii) Added Core Logo Support.
+	
+
+Version 0.9*
+
+	i) Initial Release.
+	
+	

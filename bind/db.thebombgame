@@ -1,0 +1,17 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	4800
+@	IN	SOA	thebombgame.com.ar. root.thebombgame.com.ar. (
+			 20160705	; Serial
+			 3000		; Refresh
+			 3000		; Retry
+			 3000		; Expire
+			 3000 )		; Negative Cache TTL
+
+IN	NS	ns1.thebombgame.com.ar.
+IN	MX	mail.thebombgame.com.ar.
+
+www	IN	CNAME	ns1.thebombgame.com.ar.
+ns1	IN	A	93.188.166.173
+mail	IN	A	93.188.166.173

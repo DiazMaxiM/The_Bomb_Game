@@ -1,0 +1,119 @@
+/* Default preset colour burgandy */
+
+
+#topbar,
+#topbar-social {
+	background-color: #65322f;
+	color: #fff;
+}
+#top-search input[type="text"] {
+    color: #fff;
+    background-color: #955e5b;
+    border: 1px solid #955e5b;
+}
+#top-search ::-webkit-input-placeholder {
+   color: #fff;
+   font-size: 11px;
+   	  line-height: 2;
+   font-style:italic;
+}
+#top-search :-moz-placeholder { /* Firefox 18- */
+   color: #fff;
+      font-size: 11px;
+	  line-height: 2;
+   font-style:italic;  
+}
+#top-search ::-moz-placeholder {  /* Firefox 19+ */
+   color: #fff;
+      font-size: 11px;
+	  	  line-height: 2;
+   font-style:italic;  
+}
+#top-search :-ms-input-placeholder {  
+   color: #fff;
+      font-size: 11px;
+	  	  line-height: 2;
+   font-style:italic;  
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background-color: #65322f;
+}
+::selection {
+    color: #fff;
+    background-color: #65322f;
+}
+a {
+  color: #bf706c;
+}
+a:hover,
+a:focus,
+.entry-title a:hover {
+  color: #616161;
+}
+#bottom-group {
+	background-color: #e4e4e4;
+	color: #616161;
+}
+#bottom-group li,
+#bottom-group .widget_nav_menu .sub-menu {
+	border-color: #c2c2c2;
+}
+#bottom-group a {
+	color: #8a8a8a;
+}
+#bottom-group a:hover {
+	color: #373b40;
+}
+.social a {
+	background-color: #955e5b;
+	color: #fff;
+}
+.social a:hover {		
+	background-color: #C2807D;	
+	color: #fff;
+}
+.primary-navigation.toggled-on a {
+	border-bottom: 1px solid #262826;
+	background-color: #080d07;
+	color: #fff;
+}
+.primary-navigation.toggled-on a:hover { 
+	color: #bf706c; 	
+}
+/* Mobile menu button */
+.menu-toggle {
+	background-color: #eaeaea;
+	color: #333;
+}
+.menu-toggle:active,
+.menu-toggle:focus,
+.menu-toggle:hover {
+	color: #fff;
+	background-color: #65322f;
+}
+/* Preloader */
+.double-bounce1, .double-bounce2 {
+  background-color: #65322f;
+}
+@media (min-width: 992px) {
+	.primary-navigation li a {
+			color: #222;
+		}	
+	/* Submenus */
+	.primary-navigation li li > a {	
+		color: #222;
+	}
+	.primary-navigation ul ul {
+		background-color: #fff;
+		border-bottom: 6px solid #65322f;
+	}
+	.primary-navigation a:hover,
+	.primary-navigation .current-menu-item > a,	
+	.primary-navigation .current-menu-item > a,
+	.primary-navigation .current-menu-ancestor > a {
+		color: #bf706c;
+	}
+		
+}

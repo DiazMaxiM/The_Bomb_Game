@@ -1,0 +1,235 @@
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+-------------------------------------------------------
+    CHANGELOG Version Numbers
+-------------------------------------------------------
+
+[major].[minor].[patch]
+
+These 3 levels are defined as:
+
+1. An increment in the major version indicates a break in backward compatibility.
+2. An increment in the minor version indicates the addition of new features or a significant change to existing features.
+3. An increment in the patch version indicates that minor features have been changed or bugs have been fixed.
+
+-------------------------------------------------------
+    Changes Made to this Theme
+-------------------------------------------------------
+
+June 9, 2016 Version 1.4.6	
+-------------------------------------------------------
+
+- Fixed the searchform.php file that had an incorrect input closing tag.
+- Fixed a comment form heading tag that contained a sub-h4 heading within an h3 tag.
+
+
+May 26, 2016 Version 1.4.5	
+-------------------------------------------------------
+
+- Added styling for responsive tables
+- Updated the style.css tags due to depreciated tags
+- Added support for refresh widgets
+- Added better support for a set post thumbnail size to the functions file
+- Removed the old theme info from the Appearance menu group
+- Updated the language .pot file
+
+
+January 15, 2016 Version 1.4.4	
+-------------------------------------------------------
+
+- Fixed a Submenu item link custom colour option that wasn't changing colour.
+- Fixed the footer menu link colour not working when a custom colour is selected
+- Removed the top search form placeholder text colour setting; now using the top search text colour setting.
+- Changed the top search field border to inherit the custom colour background colour setting
+- Removed custom sticky Featured label setting, because custom content via the customizer is not translatable in WP
+- Removed custom Read More label setting, because custom content via the customizer is not translatable in WP
+- Updated the style.css description
+- Fixed the top search bar placeholder text due to no text string for translating.
+- Updated the longevity.pot language file
+
+
+December 24, 2015 Version 1.4.3	
+-------------------------------------------------------
+
+- Fixed the blog layout code due to a mistake of mine with the previous version upload.
+
+
+December 24, 2015 Version 1.4.2	
+-------------------------------------------------------
+
+- bad upload to wordpress.org
+
+
+December 24, 2015 Version 1.4.1	
+-------------------------------------------------------
+
+- Fix one incorrect text domain name which had my pro theme version.
+- Updated longevity.pot language file
+
+
+December 24, 2015 Version 1.4.0	
+-------------------------------------------------------
+
+- Fixed the inline styles that were not working for button style options
+- Rebuilt the banner curve code and fixed the option settings that were not working correctly
+- Changed/Added options to hide the front page curve or hide inner page curves separately.
+- Added descriptions to all checkbox options in the customizer
+- Added the missing Comments Count option to show or hide it.
+- Made adjustments to the curve container height using media queries for different window sizes when no banner.
+- Made adjustments to the media queries for column layouts to change to single column on smaller windows.
+- Added a second header style option of a centered logo/site title and the main menu below.
+- Updated the longevity.pot language file
+
+
+December 14, 2015 Version 1.3.0	
+-------------------------------------------------------
+
+- Removed the "This post is password protected" message that was showing even when it is not.
+- Fixed the "Show or Hide" option for the post author not working for the full post view
+- Fixed the problem of Firefox ignoring responsive logo images that are in a div container
+- Updated the longevity.pot language file
+
+
+October 15, 2015 Version 1.2.9
+-------------------------------------------------------
+
+- Removed the css background-size attribute as cover
+- Created a new background size option setting
+- Fixed the content link colour conflicting with the post entry title colour; created a new theme setting for the entry title colour
+- Fixed the custom Read More setting for excerpts and removed some redundant code
+- Changed the label names for the blog layout options to make more sense
+- Removed an empty customizer section
+- Fixed the top social menu colour options that were not changing colour.
+- Fixed the social option of mailto: to display an icon
+- Added a new boxed layout size of 1200px
+- Added a new sidebar for the top header area above the main menu
+- Updated the longevity.pot language file
+
+
+October 1, 2015 Version 1.2.8
+-------------------------------------------------------
+
+- Added a Comments link to Blog home summary meta info for people who show full posts. A requested featured.
+- Fixed the left full post layout where the left sidebar was floating off screen in IE11; some code in comments.php was the cause.
+- Added a permalink to the Status post format heading
+- Removed heading tags from the site title and description for SEO purposes.
+- Added a requested search at the top next to the social menu bar
+- Added a new option setting to show or hide the new top search
+- Fixed the position of a logo when viewed in smaller devices
+- Added the cover attribute for custom background images for larger screens
+- Fixed the menu widget styling because of out of place bordering
+- Added colour option setting for the Bottom sidebar list border colour
+- Fixed Bottom sidebar link colours on presets
+- Removed an empty stylesheet that was in the /css/ folder.
+- Updated the longevity.pot language file
+
+
+September 21, 2015 Version 1.2.7
+-------------------------------------------------------
+
+- Fixed something I missed...to enable/disable the custom colour options from loading the inline styles when using the preset colours.
+
+
+September 20, 2015 Version 1.2.6
+-------------------------------------------------------
+
+- Fixed the option setting to disable all curved graphics on the banner area
+- Adjusted the banner area height when no banner and no curve is displayed
+- Fixed the issue of images not centering in the banner area
+- Added ID's to the widgets to make it easier to target style each one individually
+- Fixed a few language strings that were not working in translation
+- Deleted the theme info buttons from the customizer and created an "Longevity Info" page under the Appearance menu group
+- Added 4 more preset colours to the theme
+- Added unlimited colour options to the theme.
+- Fixed missing RSS icon on social menu
+- Fixed the missing main menu top margin setting and moved it to Site Options because the nav tab is obsolete in WP 4.3
+- Created a new inline stylesheet
+- Updated the longevity.pot language file
+
+
+September 5, 2015 Version 1.1.6
+-------------------------------------------------------
+
+- Changed the Show Front Page Curve option to choose the large or small curved banner graphic for the front page and/or pages
+- Added a footer sidebar
+- Changed the enqueue method for Google Fonts based on the theme Twenty Sixteen
+- Fixed a text domain on the searchform.php file
+- Updated the longevity.pot language file due to the above changes
+- Added missing escaping on some strings in multiple files
+- Removed version info on theme files except the style.css due to inconsistencies 
+
+
+August 28, 2015 Version 1.1.5
+-------------------------------------------------------
+
+- Added a new feature option to select Content or Excerpts for your blog (excerpt is default)
+- Added the option of using  Content or an Excerpt for Image Post Formats (default is excerpt)
+- Added customizer buttons to give you direct links to setup tutorials, theme support, writing a review, etc.
+- Fixed a bug where in Firefox and IE, the banner curved graphic was not responsive.
+- Updated the longevity.pot language file. 
+
+
+[July 16, 2015] Version 1.0.5
+-------------------------------------------------------
+
+- Removed inline-styles.php 
+- Changed functions.php file to include the enqueue of inline styles with the main stylesheet
+- Fixed the wrong font for icons in the style.css file from Genericons to Font Awesome.
+ 
+
+[July 15, 2015] Version 1.0.4
+-------------------------------------------------------
+
+- Added missing back-compat.php file
+- Sanitized: content-aside.php, content-image.php, content-status.php, sidebar-banner.php, author-bio.php, and author.php
+- Added bypostauthor class to the meta information template-tags.php
+- Fixed some text strings for translating: footer.php, customizer.php
+- Updated the longevity.pot file
+- Added a non-minified version of html5.js and then enqueued the minified version from the functions.php file.
+- Removed an empty _notes folder
+
+
+[July 11, 2015] Version 1.0.3
+-------------------------------------------------------
+
+- Re-added the font awesome icons to the theme 
+
+
+[July 11, 2015] Version 1.0.2 
+-------------------------------------------------------
+
+- Fixed an incorrect sidebar name in the page.php and sidebar-content-bottom.php files.
+- Fixed the Sticky post label that was off to the right.
+- Changed the tagcloud widget styling
+- Changed the Quote format layout when viewed with a thumbnail on small devices 
+- Updated the readme.txt file documentation
+- Adjusted the breadcrumbs sidebar bottom margin.
+- Deleted the animation script in favor of the plugin method for more flexibility
+
+
+[June 27, 2015] Version 1.0.1
+-------------------------------------------------------
+
+- Fixed the colour scheme default setting in the customizer.php file.
+- Adjusted the sidebar list style
+- Changed the no banner curve on the front page to the smaller one
+- Updated the longevity.pot language file
+
+
+[July 1, 2015] Version 1.0.1
+-------------------------------------------------------
+
+- Added the missing font awesome font
+
+
+[June 6, 2015] Version 1.0.0 
+-------------------------------------------------------
+
+- New theme is released
